@@ -1,0 +1,2 @@
+API que trás informações sobre tipagem,
+status base e um conjunto aleatório de habilidades do qual esse pokemon possa aprender
